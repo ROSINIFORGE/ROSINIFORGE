@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Rosini S  
 
 💻 **Frontend Developer | UI & UX Designer | Animation Enthusiast | Blender Beginner**  
