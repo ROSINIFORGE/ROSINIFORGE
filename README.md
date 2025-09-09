@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**ROSINIFORGE/ROSINIFORGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Rosini S  
 
-Here are some ideas to get you started:
+💻 **Frontend Developer | UI & UX Designer | Animation Enthusiast | Blender Beginner**  
+🚀 Currently working as an **Intern** and contributing to **Live Projects** while learning and growing in the frontend ecosystem.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+- 🎨 Passionate about crafting **beautiful & user-friendly interfaces**  
+- 🎥 Interested in **Animations & Motion Design**  
+- 🖌️ Exploring **UI/UX design principles**  
+- 🌀 Beginner in **Blender 3D**  
+- 🌱 Learning new technologies and improving every day  
+
+---
+
+## 🔧 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **UI/UX Tools:** Figma, Adobe XD  
+- **Styling:** Tailwind CSS, Bootstrap  
+- **Other:** Git, GitHub  
+
+---
+
+## 🚀 Current Focus
+- 🌐 Building **Live Projects** during Internship  
+- 🎨 Improving UI/UX & Animation skills  
+- 🌀 Practicing Blender for 3D visuals  
+
+✨ *Always learning, creating, and experimenting with new ideas!* ✨
